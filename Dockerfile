@@ -1,4 +1,4 @@
-FROM resin/raspberry-pi-alpine-python:latest
+FROM balenalib/raspberry-pi-alpine-python:latest
 
 ARG CLI_VERSION
 
